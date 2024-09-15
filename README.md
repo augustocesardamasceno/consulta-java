@@ -37,7 +37,7 @@ O projeto está dividido em três serviços principais, definidos no arquivo `do
 ### Clonando o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/augustocesardamasceno/consulta-java.git
 cd seu-repositorio
 ```
 
